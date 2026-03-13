@@ -1,0 +1,8 @@
+{
+  "hostname": "leaf1",
+  "ip_address": "10.10.10.10",
+  "vendor": "Cisco",
+  "model": "Nexus9000",
+  "site": "Tbilisi",
+  "role": "access"
+}
