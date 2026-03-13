@@ -61,3 +61,8 @@ def delete_device(hostname: str):
 @app.get("/debug")
 def debug_devices():
     return devices
+
+
+@app.get("/")
+def root():
+    return {"message": "Hello Azure"}
